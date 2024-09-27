@@ -1,8 +1,9 @@
+# Notes
 - **python-flask**: Directory containing the Python Flask application.
-  - **src**: Directory containing the source code of the Flask application.
-    - **app.py**: Python Flask application code.
-  - **Dockerfile**: Dockerfile for building the Flask application image.
-  - **requirements.txt**: List of Python dependencies for the Flask application.
+- **src**: Directory containing the source code of the Flask application.
+- **app.py**: Python Flask application code.
+- **Dockerfile**: Dockerfile for building the Flask application image.
+- **requirements.txt**: List of Python dependencies for the Flask application.
 
 ## Instructions
 
